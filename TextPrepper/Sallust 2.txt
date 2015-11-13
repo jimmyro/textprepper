@@ -1,0 +1,22 @@
+<!DOCTYPE html><html><body><h2>Sallust 2</h2>
+<b>arum, ari  N  N</b>  <br/>
+<b>aros, ari  N  F</b>  <br/>
+<b>aron, ari  N  N</b>  plants of genus arum; <br/>
+<b>aro, arare, aravi, aratus  V  TRANS</b>  plow, till, cultivate; produce by plowing, grow; furrow, wrinkle; <br/>
+<b>virtus, virtutis  N  F</b>  strength/power; courage/bravery; worth/manliness/virtue/character/excellence; army; host; mighty works (pl.); class of Angels; [Dominus ~ => Lord of hosts]; <br/>
+<b>pareo, parere, parui, paritus  V  INTRANS</b>  obey, be subject/obedient to; submit/yield/comply; pay attention; attend to; appear, be visible, be seen; be clear/evident (legal); <br/>
+<b>dedo, dedere, dedidi, deditus  V  TRANS</b>  give up/in, surrender; abandon/consign/devote (to); yield, hand/deliver over; <br/>
+<b>venter, ventris  N  M</b>  stomach, womb; belly; <br/>
+<b>transeo, transire, transivi(ii), transitus  V</b>  go over, cross; <br/>
+<b>peregrinor, peregrinari, peregrinatus sum  V  DEP</b>  travel about, be an alien, sojourn in strange country, go abroad, wander, roam; <br/>
+<b>lorem</b>  UNKNOWN<br/><b>juxta  ADV</b>  nearly; near, close to, near by, hard by, by the side of; just as, equally; <br/>
+<b>juxta  PREP  ACC</b>  near, (very) close to, next to; hard by, adjoining; on a par with; like; <br/>
+<b>quoniam  CONJ</b>  because, since, seeing that; <br/>
+<b>sileo, silere, silui, -  V</b>  be silent, not to speak (about); be quiet; not to function; <br/>
+<b>dem, demos/is  N  M</b>  community, a people; administrative district (in Attica); tract of land (L+S); <br/>
+<b>demum  ADV</b>  finally, at last; at length, in the end, eventually; [tum demum => only then]; other possibilities being dismissed; only/alone, and no other/nowhere else; <br/>
+<b>anima, animae  N  F</b>  soul, spirit, vital principle; life; breathing; wind, breeze; air (element); <br/>
+<b>animo, animare, animavi, animatus  V  TRANS</b>  animate, give/bring life; revive, refresh; rouse, animate; inspire; blow; <br/>
+<b>intendo, intendere, intendi, intentus  V</b>  hold out; stretch, strain, exert; <br/>
+<b>facinus, facinoris  N  N</b>  deed; crime; outrage; <br/>
+</body></html>

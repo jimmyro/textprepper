@@ -1,0 +1,10 @@
+<!DOCTYPE html><html><body>
+<h2>Opt Test</h2>
+<b>sic  ADV</b>  thus, so; as follows; in another way; in such a way; <br/>
+<b>verbum, verbi  N  N</b>  word; proverb; [verba dare alicui => cheat/deceive someone]; <br/>
+<b>hic, haec, hoc  PRON</b>  this; these (pl.); (also DEMONST); <br/>
+<b>super  ADV</b>  above, on top, over; upwards; moreover, in addition, besides; <br/>
+<b>super  PREP  ABL</b>  over (space), above, upon, in addition to; during (time); concerning; beyond; <br/>
+<b>super  PREP  ACC</b>  upon/on; over, above, about; besides (space); during (time); beyond (degree); <br/>
+<b>tunc  ADV</b>  then, thereupon, at that time; <br/>
+</body></html>
